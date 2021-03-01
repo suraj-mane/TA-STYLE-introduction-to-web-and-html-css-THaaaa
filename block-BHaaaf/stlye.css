@@ -1,0 +1,12 @@
+body {
+    color: dodgerblue;
+}
+
+#heading {
+    color: gray;
+    font-size: larger;
+}
+.midline {
+    color: tomato;
+    font-size: medium;
+}
