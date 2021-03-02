@@ -1,12 +1,13 @@
 body {
-    color: dodgerblue;
+    background-color: mediumslateblue;
+    color: white; 
 }
-
+h1 {
+    color: darkgreen;
+}
 #heading {
-    color: gray;
-    font-size: larger;
+    color: white;
 }
-.midline {
-    color: tomato;
-    font-size: medium;
+a {
+    color: red;
 }
